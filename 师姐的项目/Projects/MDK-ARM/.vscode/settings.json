@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "beep.h": "c",
+        "cap.h": "c",
+        "my_gui.h": "c",
+        "led.h": "c",
+        "motor.h": "c",
+        "sys.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx.h": "c",
+        "spwm.h": "c"
+    }
+}
